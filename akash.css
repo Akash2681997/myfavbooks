@@ -1,0 +1,34 @@
+.myself{
+ background-color:red;
+color:rgb(30, 48, 210);
+border:solid rgb(69, 42, 165);
+
+margin-top: 20px;
+margin-bottom: 20px;
+}
+#mypic{
+    float: left;
+}
+.myintro{
+    border:solid darkblue;
+    background-color: chartreuse;
+    color:red;
+    height:350px;
+    
+}
+
+}.name{
+text-align: left;
+
+}.myfavouriate{
+    background-color:rgb(255, 0, 191);
+    color:rgb(30, 48, 210);
+    border:solid rgb(69, 42, 165);
+    
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+
+
+
+}
